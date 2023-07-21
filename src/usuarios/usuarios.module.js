@@ -1,5 +1,5 @@
-const { usuarios } = require('./usuarios.controller');
+const { usuarios } = require("./usuarios.controller");
 
-module.exports ={
+module.exports = {
     usuarios
 };
